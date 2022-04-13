@@ -1,0 +1,25 @@
+h1 {
+    color: red;
+    text-align: center;
+}
+.photo {
+    width: 10%;
+    height: 10%;
+    border: solid;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+}
+.contact {
+text-align: center;
+margin: auto;
+color:blue;
+}
+h2 {
+color: gray;
+background-color: bisque;
+text-align: center;
+}
+body {
+    background-color: lightblue;
+}
